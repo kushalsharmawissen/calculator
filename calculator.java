@@ -7,5 +7,6 @@ public class Calculator {
         Calculator c = new Calculator();
         System.out.println("add(7, 3)      = " + c.add(7, 3));
         System.out.println("subtract(7, 3) = " + c.subtract(7, 3));
+        System.out.println("Executed, Thank You!");
     }
 }
